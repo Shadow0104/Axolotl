@@ -5,7 +5,7 @@ Bonjour, pour que le bot soit fonctionnel sur votre serveur discord il faut fair
 ========================================== Etape 1 ==========================================
 
 
-aller dans le terminal du bot est faites cette liste de commande à écrire :
+Allez dans le terminal du bot est faites cette liste de commande à écrire :
 
 "npm i discord.js" |
 "npm i dotenv" |
@@ -16,20 +16,20 @@ aller dans le terminal du bot est faites cette liste de commande à écrire :
 "npm i ms" |
 "npm i simple-youtube-api" |
 "npm i soundcloud-downloader" |
-"npm iweather-js" |
+"npm i weather-js" |
 "npm i ytdl-core"
 
-une fois cette étape faite aller dans "package.json" et a la 4ème ligne se trouve "main: etc" , remplacer le par etc par main.js
+Une fois cette étape faite aller dans "package.json" et a la 4ème ligne se trouve "main: etc" , remplacer le par etc par main.js
 
 ========================================== Etape 2 ==========================================
 
 
 Aller dans "config.js" et à la place de :
 
-exports.TOKEN = "TOKEN"; 
+exports.TOKEN = "TOKEN"; | 
 exports.PREFIX = "PREFIX";
 
-mettez votre token (id du bot discord que vous avez créer grace à discord developper) et changer "PREFIX" par autre chose (ex: ! ou ?)
+Mettez votre token (id du bot discord que vous avez créer grace à discord developper) et changer "PREFIX" par autre chose (ex: ! ou ?)
 
 
 ========================================== Etape 3 ==========================================
