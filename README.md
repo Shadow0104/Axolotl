@@ -8,17 +8,17 @@ Bonjour , pour que le bot soit fonctionnel sur votre serveur discord il faut fai
 
 aller dans le terminal du bot est faites cette liste de commande à écrire :
 
-"npm i discord.js"
-"npm i dotenv"
-"npm i gif-search"
-"npm i id"
-"npm i lowdb"
-"npm i moment"
-"npm i ms"
-"npm i simple-youtube-api"
-"npm i soundcloud-downloader"
-"npm iweather-js"
-"npm i ytdl-core"
+"npm i discord.js",
+"npm i dotenv",
+"npm i gif-search",
+"npm i id",
+"npm i lowdb",
+"npm i moment",
+"npm i ms",
+"npm i simple-youtube-api",
+"npm i soundcloud-downloader",
+"npm iweather-js",
+"npm i ytdl-core",
 
 une fois cette étape faite aller dans "package.json" et a la 4ème ligne se trouve "main: etc" , remplacer le par etc par main.js
 
