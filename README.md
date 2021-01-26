@@ -1,9 +1,8 @@
-# Axolotl
-bot discord en v12 
+# Axolotl v12 
 
-Bonjour , pour que le bot soit fonctionnel sur votre serveur discord il faut faire quelques étapes :
+Bonjour, pour que le bot soit fonctionnel sur votre serveur discord il faut faire quelques étapes :
 
-===================== Etape 1 =====================
+========================================== Etape 1 ==========================================
 
 
 aller dans le terminal du bot est faites cette liste de commande à écrire :
