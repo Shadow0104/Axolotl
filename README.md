@@ -2,7 +2,7 @@
 
 Bonjour, pour que le bot soit fonctionnel sur votre serveur discord il faut faire quelques étapes :
 
-========================================== Etape 1 ==========================================
+========================================== Etape 1
 
 
 Allez dans le terminal du bot est faites cette liste de commande à écrire :
@@ -21,7 +21,7 @@ Allez dans le terminal du bot est faites cette liste de commande à écrire :
 
 Une fois cette étape faite aller dans "package.json" et a la 4ème ligne se trouve "main: etc" , remplacer le par etc par main.js
 
-========================================== Etape 2 ==========================================
+========================================== Etape 2
 
 
 Aller dans "config.js" et à la place de :
@@ -32,7 +32,7 @@ exports.PREFIX = "PREFIX";
 Mettez votre token (id du bot discord que vous avez créer grace à discord developper) et changer "PREFIX" par autre chose (ex: ! ou ?)
 
 
-========================================== Etape 3 ==========================================
+========================================== Etape 3
 
 
 Regardez toutes les commandes est quand vous voyer un truc comme Cela :
